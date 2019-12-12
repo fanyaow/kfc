@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>picture/kfc.jpg</file>
+    <file>picture/冰淇淋.jpg</file>
+    <file>picture/鸡翅.jpg</file>
+    <file>picture/薯条.jpg</file>
+    <file>picture/套餐1.jpg</file>
+    <file>picture/套餐2.jpg</file>
+    <file>picture/乌龙茶.jpg</file>
+    <file>picture/新奥尔良.jpg</file>
+  </qresource>
+</RCC>
